@@ -27,3 +27,4 @@ pod 'XShare'
 ## License
 
 XShare is available under the MIT license. See the LICENSE file for more info.
+Share
